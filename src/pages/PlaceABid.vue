@@ -1,0 +1,1275 @@
+<template>
+  <div class="place-a-bid">
+    <div class="header18">
+      <img class="menu-icon19" alt="" src="/menu4.svg" />
+      <div class="logo38">
+        <div class="open-wrapper16">
+          <div class="open38"><span class="ope19">Ope</span>n</div>
+        </div>
+        <img class="logo-child34" alt="" src="/group-2525.svg" />
+      </div>
+      <div class="logo39">
+        <img class="open-icon19" alt="" src="/open5.svg" />
+        <div class="open39">open</div>
+        <img class="union-icon38" alt="" src="/union9.svg" />
+        <img class="vector-124-stroke19" alt="" src="/vector-124-stroke6.svg" />
+        <img class="vector-126-stroke19" alt="" src="/vector-126-stroke6.svg" />
+        <img class="vector-129-stroke19" alt="" src="/vector-129-stroke5.svg" />
+        <img class="vector-130-stroke19" alt="" src="/vector-130-stroke4.svg" />
+        <img class="logo-child35" alt="" src="/vector-1315.svg" />
+        <img class="union-icon39" alt="" src="/union10.svg" />
+      </div>
+    </div>
+    <img class="search-icon65" alt="" src="/search33.svg" />
+    <div class="upload6">
+      <div class="upload-child4" />
+      <div class="drag-and-drop-or-browce-a-file-parent4">
+        <div class="drag-and-drop-container12">
+          <span class="drag-and-drop-container13">
+            <b>Drag and drop or </b>
+            <b class="browce6">browce</b>
+            <b> a file</b>
+          </span>
+        </div>
+        <div class="png-gif-webp5">PNG, GIF, WEBP, MP4 or MP3. (Max 1Gb)</div>
+        <img class="image-icon6" alt="" src="/image3.svg" />
+      </div>
+    </div>
+    <b class="upload-file4">Upload File</b>
+    <img class="select-icon5" alt="" src="/select3.svg" />
+    <b class="information5">Information</b>
+    <div class="text-input21">
+      <div class="text-input-child19" />
+      <div class="icon28">
+        <img class="close-icon28" alt="" src="/close18.svg" />
+      </div>
+      <div class="content24">
+        <img class="tag-icon19" alt="" src="/tag12.svg" />
+        <div class="text24">
+          <div class="enter-your-name24">Item name</div>
+          <div class="your-na5">Awesome wave</div>
+        </div>
+      </div>
+    </div>
+    <div class="text-input22">
+      <div class="text-input-child20" />
+      <div class="icon29">
+        <img class="close-icon28" alt="" src="/close19.svg" />
+      </div>
+      <div class="content25">
+        <img class="tag-icon19" alt="" src="/tag13.svg" />
+        <div class="text25">
+          <div class="enter-your-name25">Enter your name</div>
+          <div class="your-na5">Tag</div>
+        </div>
+      </div>
+    </div>
+    <div class="form6">
+      <div class="type-here6">Description</div>
+      <img class="form-child4" alt="" src="/group-14.svg" />
+    </div>
+    <div class="sale-this-item-parent3">
+      <b class="sale-this-item5">Sale this item</b>
+      <div class="youll-receive-bids7">You’ll receive bids on this item</div>
+      <div class="checkbox27">
+        <div class="checkbox-child25" />
+        <img class="check-icon30" alt="" src="/check9.svg" />
+      </div>
+    </div>
+    <div class="add-to-collection-parent3">
+      <b class="sale-this-item5">Add to collection</b>
+      <div class="choose-an-exiting5">
+        Choose an exiting collection or create a new one
+      </div>
+      <div class="checkbox27">
+        <div class="checkbox-child25" />
+        <img class="check-icon30" alt="" src="/check10.svg" />
+      </div>
+    </div>
+    <div class="instant-sale-price-parent3">
+      <b class="sale-this-item5">Instant sale price</b>
+      <div class="youll-receive-bids7">
+        Enter the price for which the item will be instantly sold
+      </div>
+      <div class="checkbox29">
+        <div class="checkbox-child25" />
+        <img class="check-icon30" alt="" src="/check9.svg" />
+      </div>
+    </div>
+    <div class="unlock-once-purchased-parent3">
+      <b class="sale-this-item5">Unlock once purchased</b>
+      <div class="youll-receive-bids7">
+        Content will be unlocked after successful transaction
+      </div>
+      <div class="checkbox29">
+        <div class="checkbox-child28" />
+        <img class="check-icon33" alt="" src="/check11.svg" />
+      </div>
+    </div>
+    <div class="place-a-bid-child" />
+    <div class="button155">
+      <img class="close-icon28" alt="" src="/export3.svg" />
+      <b class="button156">Upload</b>
+    </div>
+    <div class="footer37">
+      <div class="the-new-creative-container19">
+        <span class="the19">
+          <span class="th19">Th</span>
+          <span class="e19">e</span>
+        </span>
+        <span class="th19">
+          <b class="b62"> </b>
+          <span class="new39">New</span>
+        </span>
+        <b class="b63"> </b>
+        <span class="creative19">Creative</span>
+        <b>
+          <span class="span19"> </span>
+          <span class="th19">Economy</span>
+        </b>
+      </div>
+      <div class="button157">
+        <img class="tag-icon19" alt="" src="/search30.svg" />
+        <b class="button156">Earn now</b>
+      </div>
+      <div class="button159">
+        <img class="tag-icon19" alt="" src="/search31.svg" />
+        <b class="button156">Discover more</b>
+      </div>
+      <div class="footer38">
+        <div class="footer-child17" />
+        <div class="dividers52">
+          <div class="dividers53" />
+        </div>
+        <div class="instagram-twitter-discord-container19">
+          <p class="instagram19">Instagram</p>
+          <p class="instagram19">Twitter</p>
+          <p class="instagram19">Discord</p>
+          <p class="instagram19">Blog</p>
+        </div>
+        <div class="about-community-guidelines-container19">
+          <p class="instagram19">About</p>
+          <p class="instagram19">Community Guidelines</p>
+          <p class="instagram19">Terms of Service</p>
+          <p class="instagram19">Privacy</p>
+          <p class="instagram19">Careers</p>
+          <p class="instagram19">Help</p>
+        </div>
+        <div class="openart20">© 2021 Openart</div>
+      </div>
+      <img class="logo-icon19" alt="" src="/logo13.svg" />
+    </div>
+    <div class="button161">
+      <img class="close-icon28" alt="" src="/view2.svg" />
+      <b class="button156">Preview</b>
+    </div>
+    <div class="place-a-bid-item" />
+    <div class="rectangle-parent11">
+      <img class="group-child26" alt="" src="/rectangle-93@2x.png" />
+      <img class="group-child27" alt="" src="/rectangle-103@2x.png" />
+    </div>
+    <img class="place-a-bid-inner" alt="" src="/group-254.svg" />
+    <b class="create-new-collection5">Create new collection</b>
+    <div class="dividers54">
+      <div class="dividers53" />
+    </div>
+    <div class="multifile5">
+      <b class="multi-file5">Multi-file</b>
+      <div class="checkbox31">
+        <div class="checkbox-child28" />
+        <img class="check-icon33" alt="" src="/check12.svg" />
+      </div>
+    </div>
+    <div class="status-bar4">
+      <div class="div6">9:41</div>
+      <img class="mobile-signal-icon5" alt="" src="/mobile-signal2.svg" />
+      <img class="wifi-icon5" alt="" src="/wifi2.svg" />
+      <img class="battery-icon5" alt="" src="/battery3.svg" />
+    </div>
+    <div class="place-a-bid-child1" />
+    <div class="place-a-bid-child2" />
+    <img class="close-icon30" alt="" src="/close20.svg" />
+    <div class="button163">
+      <img class="tag-icon19" alt="" src="/search32.svg" />
+      <b class="button156">Place a bid</b>
+    </div>
+    <div class="button165">
+      <img class="tag-icon19" alt="" src="/search32.svg" />
+      <b class="button156">Cancel</b>
+    </div>
+    <div class="you-must-bid">You must bid at least 0.825 ETH</div>
+    <b class="your-bid">Your bid</b>
+    <div class="enter-bid">Enter bid</div>
+    <div class="your-balance1">Your balance</div>
+    <div class="service-fee1">Service fee</div>
+    <div class="total">Total</div>
+    <b class="eth14">ETH</b>
+    <b class="eth15">4.568 ETH</b>
+    <b class="eth16">0.001 ETH</b>
+    <b class="eth17">0.001 ETH</b>
+    <img class="emoji-icon1" alt="" src="/emoji1.svg" />
+    <b class="place-a-bid1">Place a bid</b>
+  </div>
+</template>
+<script>
+  import { defineComponent, ref } from "vue";
+
+  export default defineComponent({
+    name: "PlaceABid",
+  });
+</script>
+<style scoped>
+  .menu-icon19 {
+    position: absolute;
+    height: 42.99%;
+    width: 7%;
+    top: 37.99%;
+    right: 0%;
+    bottom: 19.03%;
+    left: 93%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .ope19 {
+    letter-spacing: -2.1px;
+  }
+  .open38 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    line-height: 50.33px;
+    font-weight: 300;
+    display: inline-block;
+  }
+  .open-wrapper16 {
+    position: absolute;
+    height: 100%;
+    width: 71.47%;
+    top: 0%;
+    right: 28.53%;
+    bottom: 0%;
+    left: 0%;
+  }
+  .logo-child34 {
+    position: absolute;
+    height: 45.8%;
+    width: 35.96%;
+    top: 24.72%;
+    right: 4.06%;
+    bottom: 29.48%;
+    left: 59.98%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .logo38 {
+    position: absolute;
+    top: 7px;
+    left: -1px;
+    width: 141.8px;
+    height: 50.72px;
+    display: none;
+  }
+  .open-icon19 {
+    position: absolute;
+    height: 97.87%;
+    width: 60.98%;
+    top: 1.36%;
+    right: 38.9%;
+    bottom: 0.77%;
+    left: 0.12%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    display: none;
+  }
+  .open39 {
+    position: absolute;
+    top: -33.86%;
+    left: -1.83%;
+    letter-spacing: -2.9px;
+    line-height: 59.75px;
+    font-weight: 300;
+  }
+  .union-icon38 {
+    position: absolute;
+    height: 63.99%;
+    width: 9.62%;
+    top: 14.81%;
+    right: 0.5%;
+    bottom: 21.19%;
+    left: 89.88%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vector-124-stroke19 {
+    position: absolute;
+    height: 58.51%;
+    width: 10.54%;
+    top: 19.27%;
+    right: 26.7%;
+    bottom: 22.22%;
+    left: 62.76%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vector-126-stroke19 {
+    position: absolute;
+    height: 52.85%;
+    width: 3.81%;
+    top: 25.3%;
+    right: 15.42%;
+    bottom: 21.85%;
+    left: 80.76%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vector-129-stroke19 {
+    position: absolute;
+    height: 23.27%;
+    width: 8.8%;
+    top: 26.2%;
+    right: 10.44%;
+    bottom: 50.53%;
+    left: 80.76%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .vector-130-stroke19 {
+    position: absolute;
+    height: 13.23%;
+    width: 7.96%;
+    top: 27.93%;
+    right: 2.16%;
+    bottom: 58.84%;
+    left: 89.88%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .logo-child35 {
+    position: absolute;
+    height: 6.26%;
+    width: 3.8%;
+    top: 41.22%;
+    right: 6.31%;
+    bottom: 52.53%;
+    left: 89.89%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.2;
+    mix-blend-mode: overlay;
+  }
+  .union-icon39 {
+    position: absolute;
+    height: 58.51%;
+    width: 11.86%;
+    top: 19.27%;
+    right: 19.97%;
+    bottom: 22.22%;
+    left: 68.17%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .logo39 {
+    position: absolute;
+    top: 17px;
+    left: 0px;
+    width: 140px;
+    height: 37px;
+    text-align: center;
+    font-size: 38.41px;
+  }
+  .header18 {
+    position: absolute;
+    top: 66px;
+    left: 16px;
+    width: 343px;
+    height: 55.83px;
+    font-size: 35.95px;
+    color: var(--grayscale-title-active);
+  }
+  .search-icon65 {
+    position: absolute;
+    top: 89px;
+    left: 282px;
+    width: 24px;
+    height: 24px;
+  }
+  .upload-child4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: var(--br-13xl);
+    background-color: var(--grayscale-background);
+    width: 343px;
+    height: 167.18px;
+  }
+  .browce6 {
+    text-decoration: underline;
+    font-family: var(--font-quicksand);
+  }
+  .drag-and-drop-container13 {
+    line-break: anywhere;
+    width: 100%;
+  }
+  .drag-and-drop-container12 {
+    position: absolute;
+    top: 28px;
+    left: 0px;
+    line-height: 28px;
+    display: flex;
+    align-items: center;
+    width: 304.46px;
+  }
+  .png-gif-webp5 {
+    position: absolute;
+    top: 59.73px;
+    left: 33.23px;
+    font-size: var(--mobile-text-small-regular-size);
+    line-height: 20px;
+    font-weight: 500;
+    color: var(--grayscale-placehoder);
+  }
+  .image-icon6 {
+    position: absolute;
+    top: 0px;
+    left: 139.73px;
+    width: 24px;
+    height: 24px;
+  }
+  .drag-and-drop-or-browce-a-file-parent4 {
+    position: absolute;
+    top: 43.72px;
+    left: 19.77px;
+    width: 304.46px;
+    height: 79.73px;
+  }
+  .upload6 {
+    position: absolute;
+    top: 232.8px;
+    left: 16px;
+    width: 343px;
+    height: 167.18px;
+    text-align: center;
+    font-size: var(--mobile-link-large-bold-size);
+    color: var(--grayscale-title-active);
+  }
+  .upload-file4 {
+    position: absolute;
+    top: 181px;
+    left: 16px;
+    font-size: var(--mobile-display-small-bold-size);
+    letter-spacing: 0.01em;
+    line-height: 32px;
+    color: var(--grayscale-title-active);
+  }
+  .select-icon5 {
+    position: absolute;
+    top: 463.22px;
+    left: 16px;
+    width: 344px;
+    height: 77px;
+  }
+  .information5 {
+    position: absolute;
+    top: 555.88px;
+    left: 16px;
+    font-size: var(--desktop-text-x-small-regular-size);
+    line-height: 20px;
+    color: var(--grayscale-body);
+  }
+  .text-input-child19 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0.44%;
+    right: 0%;
+    bottom: -0.44%;
+    left: 0%;
+    border-radius: var(--br-5xs);
+    background-color: var(--grayscale-off-white);
+    border: 1px solid var(--grayscale-label);
+    box-sizing: border-box;
+  }
+  .close-icon28 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+  }
+  .icon28 {
+    position: absolute;
+    height: 100%;
+    width: 16.47%;
+    top: 1.55%;
+    right: 0%;
+    bottom: -1.55%;
+    left: 83.53%;
+    border-radius: 0px var(--br-5xs) var(--br-5xs) 0px;
+    display: none;
+    flex-direction: row;
+    padding: var(--padding-base);
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+  }
+  .tag-icon19 {
+    position: relative;
+    width: 24px;
+    height: 24px;
+    display: none;
+  }
+  .enter-your-name24 {
+    position: relative;
+    letter-spacing: 0.75px;
+    line-height: 20px;
+    font-weight: 500;
+  }
+  .your-na5 {
+    position: relative;
+    font-size: var(--mobile-link-medium-bold-size);
+    letter-spacing: 0.01em;
+    line-height: 24px;
+    font-weight: 500;
+    color: var(--grayscale-label);
+  }
+  .text24 {
+    display: flex;
+    flex-direction: column;
+    padding: 0px var(--padding-base) 0px 0px;
+    align-items: flex-start;
+    justify-content: center;
+  }
+  .content24 {
+    position: absolute;
+    top: calc(50% - 21.44px);
+    left: 24px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-xs);
+  }
+  .text-input21 {
+    position: absolute;
+    top: 585px;
+    left: 17.5px;
+    border-radius: var(--br-5xs);
+    width: 340px;
+    height: 56px;
+    font-size: var(--desktop-text-x-small-regular-size);
+    color: var(--grayscale-placehoder);
+  }
+  .text-input-child20 {
+    position: absolute;
+    height: 98.9%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 1.1%;
+    left: 0%;
+    border-radius: var(--br-5xs);
+    background-color: var(--grayscale-input-bg);
+  }
+  .icon29 {
+    position: absolute;
+    height: 98.9%;
+    width: 16.47%;
+    top: 1.1%;
+    right: 0%;
+    bottom: 0%;
+    left: 83.53%;
+    display: none;
+    flex-direction: row;
+    padding: var(--padding-base);
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+  }
+  .enter-your-name25 {
+    position: relative;
+    letter-spacing: 0.75px;
+    line-height: 20px;
+    font-weight: 500;
+    display: none;
+  }
+  .text25 {
+    display: flex;
+    flex-direction: column;
+    padding: 0px var(--padding-base) 0px 0px;
+    align-items: flex-start;
+    justify-content: center;
+    gap: var(--gap-9xs);
+  }
+  .content25 {
+    position: absolute;
+    top: calc(50% - 12.5px);
+    left: 24px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-12xs) 0px 0px;
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-xs);
+  }
+  .text-input22 {
+    position: absolute;
+    top: 657px;
+    left: 17.5px;
+    border-radius: var(--br-5xs);
+    width: 340px;
+    height: 56.62px;
+    font-size: var(--desktop-text-x-small-regular-size);
+    color: var(--grayscale-placehoder);
+  }
+  .type-here6 {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    letter-spacing: 0.01em;
+    line-height: 24px;
+    font-weight: 500;
+    display: inline-block;
+    width: 301.96px;
+    height: 133.53px;
+  }
+  .form-child4 {
+    position: absolute;
+    top: 139.14px;
+    left: 322.97px;
+    width: 12.72px;
+    height: 12.72px;
+  }
+  .form6 {
+    position: absolute;
+    top: 729.62px;
+    left: 17.52px;
+    border-radius: var(--br-5xs);
+    background-color: var(--grayscale-input-bg);
+    width: 339.96px;
+    height: 154.53px;
+    color: var(--grayscale-label);
+  }
+  .sale-this-item5 {
+    position: absolute;
+    top: 0px;
+    left: 40px;
+    line-height: 24px;
+    display: flex;
+    align-items: center;
+    width: 263px;
+  }
+  .youll-receive-bids7 {
+    position: absolute;
+    top: 28px;
+    left: 40px;
+    font-size: var(--mobile-text-small-regular-size);
+    line-height: 20px;
+    font-weight: 500;
+    color: var(--grayscale-placehoder);
+    display: flex;
+    align-items: center;
+    width: 263px;
+  }
+  .checkbox-child25 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: var(--br-9xs);
+    background-color: var(--primary-dark-mode);
+  }
+  .check-icon30 {
+    position: absolute;
+    height: 83.33%;
+    width: 83.33%;
+    top: 8.33%;
+    right: 8.33%;
+    bottom: 8.33%;
+    left: 8.33%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .checkbox27 {
+    position: absolute;
+    top: 7px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+  }
+  .sale-this-item-parent3 {
+    position: absolute;
+    top: 919px;
+    left: 16px;
+    width: 303px;
+    height: 48px;
+    color: var(--grayscale-title-active);
+  }
+  .choose-an-exiting5 {
+    position: absolute;
+    top: 28.07px;
+    left: 40px;
+    font-size: var(--caption-2-size);
+    line-height: 20px;
+    font-family: var(--caption-2);
+    color: var(--neutrals-4);
+    display: flex;
+    align-items: center;
+    width: 303px;
+  }
+  .add-to-collection-parent3 {
+    position: absolute;
+    top: 1197.39px;
+    left: 16px;
+    width: 343px;
+    height: 48.07px;
+    color: var(--grayscale-title-active);
+  }
+  .checkbox29 {
+    position: absolute;
+    top: 5px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+  }
+  .instant-sale-price-parent3 {
+    position: absolute;
+    top: 995px;
+    left: 16px;
+    width: 303px;
+    height: 68px;
+    color: var(--grayscale-title-active);
+  }
+  .checkbox-child28 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    border-radius: var(--br-9xs);
+    border: 1px solid var(--grayscale-line);
+    box-sizing: border-box;
+  }
+  .check-icon33 {
+    position: absolute;
+    height: 83.33%;
+    width: 83.33%;
+    top: 8.33%;
+    right: 8.33%;
+    bottom: 8.33%;
+    left: 8.33%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    display: none;
+  }
+  .unlock-once-purchased-parent3 {
+    position: absolute;
+    top: 1091px;
+    left: 16px;
+    width: 303px;
+    height: 68px;
+    color: var(--grayscale-title-active);
+  }
+  .place-a-bid-child {
+    position: absolute;
+    top: 1271.32px;
+    left: 16px;
+    border-radius: var(--br-base);
+    border: 1px solid var(--grayscale-input-bg);
+    box-sizing: border-box;
+    width: 166px;
+    height: 102.28px;
+  }
+  .button156 {
+    position: relative;
+    line-height: 28px;
+  }
+  .button155 {
+    position: absolute;
+    top: 1470px;
+    left: 16px;
+    border-radius: var(--br-5xs);
+    background-color: var(--grayscale-title-active);
+    width: 343px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-mini) var(--padding-61xl) var(--padding-smi);
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-5xs);
+    font-size: var(--mobile-link-large-bold-size);
+  }
+  .th19 {
+    letter-spacing: 0.01em;
+  }
+  .e19 {
+    letter-spacing: -0.16em;
+  }
+  .the19 {
+    font-weight: 200;
+  }
+  .b62 {
+    font-family: var(--mobile-link-medium-bold);
+  }
+  .new39 {
+    font-weight: 300;
+  }
+  .b63 {
+    letter-spacing: -0.13em;
+  }
+  .creative19 {
+    letter-spacing: 0.01em;
+    font-weight: 500;
+  }
+  .span19 {
+    letter-spacing: -0.12em;
+  }
+  .the-new-creative-container19 {
+    position: absolute;
+    height: 5.17%;
+    width: 89.91%;
+    top: 11.12%;
+    left: 5.04%;
+    font-size: 25.72px;
+    line-height: 34.3px;
+    text-align: center;
+    display: inline-block;
+  }
+  .button157 {
+    position: absolute;
+    height: 8.43%;
+    width: 91.05%;
+    top: 20.65%;
+    right: 4.25%;
+    bottom: 70.91%;
+    left: 4.7%;
+    border-radius: var(--br-5xs);
+    background: linear-gradient(114.44deg, #0038f5, #9f03ff);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-mini) var(--padding-61xl) var(--padding-smi);
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-5xs);
+    color: var(--grayscale-off-white);
+  }
+  .button159 {
+    position: absolute;
+    height: 8.43%;
+    width: 91.05%;
+    top: 31.49%;
+    right: 4.25%;
+    bottom: 60.07%;
+    left: 4.7%;
+    border-radius: var(--br-5xs);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-mini) var(--padding-61xl) var(--padding-smi);
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-5xs);
+    color: var(--grayscale-label);
+  }
+  .footer-child17 {
+    position: absolute;
+    height: 100%;
+    width: 99.74%;
+    top: 0%;
+    right: 0.26%;
+    bottom: 0%;
+    left: 0%;
+    background-color: var(--grayscale-title-active);
+  }
+  .dividers53 {
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: 0%;
+    left: 0%;
+    background-color: var(--grayscale-line);
+  }
+  .dividers52 {
+    position: absolute;
+    height: 0.32%;
+    width: 99.28%;
+    top: 74.55%;
+    right: 0.26%;
+    bottom: 25.13%;
+    left: 0.45%;
+  }
+  .instagram19 {
+    margin: 0;
+  }
+  .instagram-twitter-discord-container19 {
+    position: absolute;
+    top: 8.2%;
+    left: 4.69%;
+    line-height: 32.5px;
+  }
+  .about-community-guidelines-container19 {
+    position: absolute;
+    top: 8.2%;
+    left: 51.81%;
+    line-height: 32.5px;
+  }
+  .openart20 {
+    position: absolute;
+    top: 84.53%;
+    left: 4.95%;
+    font-size: var(--mobile-text-small-regular-size);
+    line-height: 20px;
+    font-weight: 500;
+    color: var(--grayscale-input-bg);
+  }
+  .footer38 {
+    position: absolute;
+    height: 46.68%;
+    width: 100.27%;
+    top: 53.32%;
+    right: -0.27%;
+    bottom: 0%;
+    left: 0%;
+    font-size: var(--mobile-link-medium-bold-size);
+    color: var(--grayscale-background);
+  }
+  .logo-icon19 {
+    position: absolute;
+    height: 7.06%;
+    width: 47.07%;
+    top: 3.46%;
+    right: 27.26%;
+    bottom: 89.48%;
+    left: 25.67%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .footer37 {
+    position: absolute;
+    top: 1656px;
+    left: 0.3px;
+    width: 376.7px;
+    height: 664.01px;
+    font-size: var(--mobile-link-large-bold-size);
+    color: var(--grayscale-title-active);
+  }
+  .button161 {
+    position: absolute;
+    top: 1402px;
+    left: 16px;
+    border-radius: var(--br-5xs);
+    border: 1px solid var(--grayscale-title-active);
+    box-sizing: border-box;
+    width: 343px;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-mini) var(--padding-61xl) var(--padding-smi);
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-5xs);
+    font-size: var(--mobile-link-large-bold-size);
+    color: var(--grayscale-title-active);
+  }
+  .place-a-bid-item {
+    position: absolute;
+    top: 1271.32px;
+    left: 194px;
+    border-radius: var(--br-base);
+    background-color: var(--grayscale-input-bg);
+    width: 166px;
+    height: 102.28px;
+  }
+  .group-child26 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: var(--br-5xs) 0px 0px var(--br-5xs);
+    width: 72.84px;
+    height: 88.29px;
+    object-fit: cover;
+  }
+  .group-child27 {
+    position: absolute;
+    top: 0px;
+    left: 78.58px;
+    border-radius: 0px var(--br-5xs) var(--br-5xs) 0px;
+    width: 72.84px;
+    height: 88.29px;
+    object-fit: cover;
+  }
+  .rectangle-parent11 {
+    position: absolute;
+    top: 1278.19px;
+    left: 201.29px;
+    width: 151.42px;
+    height: 88.29px;
+  }
+  .place-a-bid-inner {
+    position: absolute;
+    top: 1285.17px;
+    left: 29.09px;
+    width: 34.25px;
+    height: 34.25px;
+  }
+  .create-new-collection5 {
+    position: absolute;
+    top: 1335.49px;
+    left: 27.99px;
+    font-size: var(--desktop-text-x-small-regular-size);
+    line-height: 20px;
+    color: var(--color-black);
+  }
+  .dividers54 {
+    position: absolute;
+    top: 1566px;
+    left: 24px;
+    width: 327px;
+    height: 1px;
+  }
+  .multi-file5 {
+    position: absolute;
+    top: 1.34px;
+    left: 30px;
+    line-height: 20px;
+  }
+  .checkbox31 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+  }
+  .multifile5 {
+    position: absolute;
+    top: 419px;
+    left: 16px;
+    width: 95px;
+    height: 24px;
+    text-align: center;
+    font-size: var(--desktop-text-x-small-regular-size);
+    color: var(--grayscale-placehoder);
+  }
+  .div6 {
+    position: absolute;
+    top: calc(50% - 6px);
+    left: 30px;
+    line-height: 16px;
+    font-weight: 500;
+  }
+  .mobile-signal-icon5 {
+    position: absolute;
+    top: calc(50% - 1.5px);
+    right: 69px;
+    width: 18px;
+    height: 10px;
+  }
+  .wifi-icon5 {
+    position: absolute;
+    top: calc(50% - 3px);
+    right: 48.73px;
+    width: 15.27px;
+    height: 10.97px;
+  }
+  .battery-icon5 {
+    position: absolute;
+    top: calc(50% - 4px);
+    right: 16.02px;
+    width: 26.98px;
+    height: 13px;
+  }
+  .status-bar4 {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background-color: var(--grayscale-off-white);
+    width: 375px;
+    height: 44px;
+    color: var(--grayscale-title-active);
+  }
+  .place-a-bid-child1 {
+    position: absolute;
+    top: -8.92px;
+    left: -2.12px;
+    background-color: var(--color-gray-300);
+    width: 379.5px;
+    height: 830.17px;
+    opacity: 0.8;
+    mix-blend-mode: normal;
+  }
+  .place-a-bid-child2 {
+    position: absolute;
+    top: 199.84px;
+    left: 16px;
+    border-radius: var(--br-5xl);
+    background-color: var(--grayscale-body);
+    width: 343px;
+    height: 443.56px;
+  }
+  .close-icon30 {
+    position: absolute;
+    top: 218px;
+    left: 318px;
+    width: 24px;
+    height: 24px;
+  }
+  .button163 {
+    position: absolute;
+    height: 6.89%;
+    width: 82.13%;
+    top: 59.41%;
+    right: 8.93%;
+    bottom: 33.7%;
+    left: 8.93%;
+    border-radius: var(--br-5xs);
+    background: linear-gradient(114.44deg, #0038f5, #9f03ff);
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-mini) var(--padding-61xl) var(--padding-smi);
+    box-sizing: border-box;
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-5xs);
+    font-size: var(--mobile-link-large-bold-size);
+  }
+  .button165 {
+    position: absolute;
+    height: 6.89%;
+    width: 82.13%;
+    top: 68.27%;
+    right: 8.93%;
+    bottom: 24.85%;
+    left: 8.93%;
+    border-radius: var(--br-5xs);
+    border: 1px solid var(--grayscale-off-white);
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    padding: var(--padding-mini) var(--padding-61xl) var(--padding-smi);
+    align-items: center;
+    justify-content: center;
+    gap: var(--gap-5xs);
+    font-size: var(--mobile-link-large-bold-size);
+  }
+  .you-must-bid {
+    position: absolute;
+    top: 254.24px;
+    left: 33.78px;
+    line-height: 22px;
+    color: var(--grayscale-background);
+  }
+  .your-bid {
+    position: absolute;
+    top: 318.22px;
+    left: 33.78px;
+    letter-spacing: 0.01em;
+    line-height: 24px;
+  }
+  .enter-bid {
+    position: absolute;
+    top: 350.65px;
+    left: 33.78px;
+    line-height: 22px;
+  }
+  .your-balance1 {
+    position: absolute;
+    top: 378.65px;
+    left: 33.78px;
+    line-height: 22px;
+  }
+  .service-fee1 {
+    position: absolute;
+    top: 406.65px;
+    left: 33.78px;
+    line-height: 22px;
+  }
+  .total {
+    position: absolute;
+    top: 434.65px;
+    left: 33.78px;
+    line-height: 22px;
+  }
+  .eth14 {
+    position: absolute;
+    top: 350.65px;
+    left: 304px;
+    letter-spacing: 0.01em;
+    line-height: 24px;
+    text-align: right;
+  }
+  .eth15 {
+    position: absolute;
+    top: 378.65px;
+    left: 254px;
+    letter-spacing: 0.01em;
+    line-height: 24px;
+    text-align: right;
+  }
+  .eth16 {
+    position: absolute;
+    top: 406.65px;
+    left: 258px;
+    letter-spacing: 0.01em;
+    line-height: 24px;
+    text-align: right;
+  }
+  .eth17 {
+    position: absolute;
+    top: 434.65px;
+    left: 258px;
+    letter-spacing: 0.01em;
+    line-height: 24px;
+    text-align: right;
+  }
+  .emoji-icon1 {
+    position: absolute;
+    height: 4.12%;
+    width: 9.59%;
+    top: 36.82%;
+    right: -11.98%;
+    bottom: 59.06%;
+    left: 102.39%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .place-a-bid1 {
+    position: absolute;
+    top: 218.28px;
+    left: 31.29px;
+    font-size: var(--mobile-display-small-bold-size);
+    letter-spacing: 0.01em;
+    line-height: 32px;
+  }
+  .place-a-bid {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 813px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--mobile-link-medium-bold-size);
+    color: var(--grayscale-off-white);
+    font-family: var(--mobile-link-medium-bold);
+  }
+</style>
