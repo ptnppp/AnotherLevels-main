@@ -11,7 +11,7 @@
         </div>
         <div class="logo71">
           <img class="open-icon35" alt="" src="/open10.svg" />
-          <div class="open71">openTest</div>
+          <div class="open71">openTesdt</div>
           <img class="union-icon72" alt="" src="/union19.svg" />
           <img
             class="vector-124-stroke35"
